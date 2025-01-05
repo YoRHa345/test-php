@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        // トライキャッチ
+        // トライキャッチ 
         try{
             // POSTから受け取り => UTF8に
             $staff_name = $_POST['name'];
